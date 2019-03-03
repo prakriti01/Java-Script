@@ -1,0 +1,25 @@
+
+h1 {
+    color:whitesmoke;
+}
+body {
+    background-color: black;
+ }
+
+.form-control{
+    color: white;
+    background-color: lightcoral;
+}
+
+.form-control:hover{
+    color: black;
+    background-color: white;
+}
+
+#reset{
+    color:black;
+}
+
+table, th, td {
+    border: 2px solid rgb(211, 247, 139);
+  }
